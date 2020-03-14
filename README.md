@@ -1,3 +1,11 @@
+Disclaimer
+==========
+
+This is not the upstream project. It is a clone to save it in case the
+original repository vanishes. For the actual upstream project see
+https://gitlab.com/klamonte/jexer.
+
+
 Jexer - Java Text User Interface library
 ========================================
 
